@@ -56,6 +56,7 @@ git clone https://github.com/yourusername/number-guessing-game.git
 
 Navigate to the project directory:
 cd number-guessing-game
+
 Run the game:
 python number_guessing_game.py
 
