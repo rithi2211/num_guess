@@ -1,4 +1,3 @@
-Number Guessing Game
 Welcome to the Number Guessing Game! This game challenges players to guess a randomly generated number within a specific range and offers various helpful hints to make the guessing process more engaging.
 
 Features
